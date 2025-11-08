@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Tanya\\HelixJumpU4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GoalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GoalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\HelixController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HelixController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\DeathPart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DeathPart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\BallController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BallController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\CamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\Stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\HelixController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HelixController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\PassScorePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PassScorePoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GoalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GoalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\CamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +46,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GoalController.cs",
-              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GoalController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GoalController.cs",
-              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GoalController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GoalController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\Stage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stage.cs",
+              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\Stage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T05:18:28.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T19:28:07.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DeathPart.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\DeathPart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathPart.cs",
+              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\DeathPart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:05:06.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassScorePoint.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\PassScorePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PassScorePoint.cs",
+              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\PassScorePoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PassScorePoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:36:25.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
@@ -59,12 +98,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T03:22:47.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-11-07T03:22:47.771Z"
             },
             {
               "$type": "Document",
@@ -74,34 +108,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T01:19:34.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T01:19:34.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HelixController.cs",
               "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\HelixController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HelixController.cs",
               "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\HelixController.cs",
               "RelativeToolTip": "Assets\\Scripts\\HelixController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T00:13:32.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CamController.cs",
-              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\CamController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CamController.cs",
-              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\CamController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CamController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T18:39:58.497Z"
+              "WhenOpened": "2025-11-07T00:13:32.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,10 +133,33 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\BallController.cs",
               "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\BallController.cs",
               "RelativeToolTip": "Assets\\Scripts\\BallController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T06:26:13.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T06:26:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoalController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GoalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoalController.cs",
+              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\GoalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:18:28.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CamController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\CamController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CamController.cs",
+              "ToolTip": "C:\\Users\\Tanya\\HelixJumpU4\\Assets\\Scripts\\CamController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:39:58.497Z"
             }
           ]
         }
