@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("Restart");
         singleton.currentScore = 0;
-        FindFirstObjectByType<BallController>().ResetBall();
+        FindObjectOfType<BallController>().ResetBall();
     }
 
     public void AddScore(int scoreToAdd)
