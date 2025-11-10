@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class GameManager : MonoBehaviour
     public int currentScore;
 
     public int currentLevel = 0;
+    //modificación para volver al Menú
+    public int totalLevels = 3;
 
     public static GameManager singleton;
 
@@ -19,6 +22,8 @@ public class GameManager : MonoBehaviour
         if(singleton == null)
         {
             singleton = this;
+            //Agregado para el Menú de vuelta
+            DontDestroyOnLoad(gameObject);
         }
 
         else if (singleton !=this)
@@ -27,12 +32,24 @@ public class GameManager : MonoBehaviour
           
         }
 
-        bestScore = PlayerPrefs.GetInt("HighScore");
+        bestScore = PlayerPrefs.GetInt("HighScore", 0);
     }
 
     public void NextLevel()
     {
-        Debug.Log("Pasamos de nivel");
+        currentLevel++;
+        //Agregado
+        if (currentLevel >= totalLevels)
+        {
+            Debug.Log("Todos los niveles completados, Volviendo al menú...");
+            ReturnToMenu();
+        }
+        else
+        {
+            FindObjectOfType<BallController>().ResetBall();
+            FindObjectOfType<HelixController>().LoadStage(currentLevel);
+            Debug.Log("Pasamos de nivel");
+        }
     }
 
     public void Restartlevel()
@@ -40,6 +57,7 @@ public class GameManager : MonoBehaviour
         Debug.Log("Restart");
         singleton.currentScore = 0;
         FindObjectOfType<BallController>().ResetBall();
+        FindObjectOfType<HelixController>().LoadStage(currentLevel);
     }
 
     public void AddScore(int scoreToAdd)
@@ -51,6 +69,15 @@ public class GameManager : MonoBehaviour
             bestScore = currentScore;
             PlayerPrefs.SetInt("HighScore",currentScore);
         }
+    }
+
+    //Agregado
+    public void ReturnToMenu()
+    {
+        currentLevel = 0;
+        currentScore = 0;
+
+        SceneManager.LoadScene("MainMenu");
     }
 
 
